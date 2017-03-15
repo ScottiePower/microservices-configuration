@@ -1,1 +1,2 @@
-db.username=git
+db.username=git_username
+db.password=git_password
